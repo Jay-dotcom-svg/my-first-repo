@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+}
+/* selection property  */
+/* property: value; */
+div{
+     /* background-color: tomato; */
+    width: 300px;
+    display: inline-block;
+    padding: 40px;
+}
+/* selection by id  */
+#firstdiv{
+    background-color: tomato;
+}
+/* selection by class  */
+.seconddiv{
+    background-color: grey ;
+}
+.thirddiv{
+    background-color: blue;
+}
+section{
+    width: 90%;
+    height: 250px;
+    margin: 40px auto;
+    text-align: center;
+    
+}
